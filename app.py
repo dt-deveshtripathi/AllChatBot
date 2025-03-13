@@ -4,7 +4,7 @@ import requests
 import os
 import shutil
 
-app = Flask(__name__)
+app = (__name__)
 
 # Secret key for session management (change this to a secure value)
 app.secret_key = 'your_secret_key'
